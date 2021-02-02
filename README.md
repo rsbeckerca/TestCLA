@@ -1,3 +1,5 @@
 # TestCLA
 
-Not much
+This repository is a test case for using the CLA workflow
+
+Updated PULL
